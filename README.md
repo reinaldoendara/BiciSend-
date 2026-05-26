@@ -10,3 +10,4 @@ tecnologia:
 
 Para lograrlo, nos respaldamos en la tecnología utilizamos una plataforma digital inteligente de asignación de rutas óptimas, rastreo en tiempo real para el cliente y aplicaciones móviles que coordinan a nuestros bicipartidores de manera ágil.
 En BiciSend, reemplazamos el humo por una alternativa ecológica. Igual de veloz, igual de eficaz, pero infinitamente más sano para todos.
+
